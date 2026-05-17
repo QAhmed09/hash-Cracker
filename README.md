@@ -6,7 +6,7 @@ In Linux/MacOS go to CLI (Terminal) and write:
 
 Bash
 
-- `git clone `
+- `git clone https://github.com/QAhmed09/hash-Cracker.git`
 - `cd Advanced_Hash_Cracker`
 - `chmod +x hash_cracker.py`
 
