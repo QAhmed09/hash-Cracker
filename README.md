@@ -6,9 +6,9 @@ In Linux/MacOS go to CLI (Terminal) and write:
 
 Bash
 
-`git clone `
-`cd Advanced_Hash_Cracker`
-`chmod +x hash_cracker.py`
+- `git clone `
+- `cd Advanced_Hash_Cracker`
+- `chmod +x hash_cracker.py`
 
 Now you should know all the commands:
 
