@@ -21,6 +21,9 @@ Specifies the path to your dictionary file (Works perfectly with both small cust
 - `--threads`
 Specifies the number of parallel threads to speed up the process (Default is 20).
 
+example :
+- `python3 hash_cracker.py -t 78e225964f4340578ef45b7964ef72d7 -w wordlist.txt --threads 20`
+
 **IMPORTANT: Manual Code Modification Required**
 Inside the script, the `detect_hash_type` function relies strictly on the character length of the hash to automatically determine the algorithm.
 
